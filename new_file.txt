@@ -3,3 +3,5 @@ Second commit
 feature 1
 friend commit
 merge conflit 1
+merge conflict 2
+
