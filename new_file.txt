@@ -2,3 +2,4 @@ First Commit
 Second commit
 feature 1
 friend commit
+merge conflict 2
