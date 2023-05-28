@@ -1,2 +1,2 @@
 This is the new feature, this is ready 
-Hi , this is sconf commit in feature
+Hi , this is sconf commit in feature.
